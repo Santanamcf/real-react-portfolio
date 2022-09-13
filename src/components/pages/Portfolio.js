@@ -1,7 +1,5 @@
 import React from 'react';
-
-import React from 'react';
-import portfolio from '../assests/portfolio.json'
+import portfolio from '../PortfolioContainer'
 
 function Card(props) {
     return (
