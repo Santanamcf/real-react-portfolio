@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import PortfolioCon from "./components/PortfolioCon"
+import PortfolioContainer from "./components/PortfolioContainer"
 
 const App = () => 
-<PortfolioCon className='Porfolio'/>;
+<PortfolioContainer className='Porfolio'/>;
 
 
 export default App;
